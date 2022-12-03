@@ -29,8 +29,8 @@ Deploy the notebook as a web application
 
 **hvplot** for visualization 
 
-![Voila Git bash page](C:\Users\madhu\Fintech-workspace\Module7_Assignment\Git_Voila.png)
-![Web page](C:\Users\madhu\Fintech-workspace\Module7_Assignment\webpage.png)
+![Voila Git bash page](https://github.com/mbhat83/Module7_Assignment/blob/main/Git_Voila.PNG)
+![Web page](https://github.com/mbhat83/Module7_Assignment/blob/main/webpage.PNG)
 
 
 ## Contributors
